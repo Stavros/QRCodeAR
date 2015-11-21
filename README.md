@@ -1,6 +1,6 @@
 # QRCodeAR
 
- Augment real time video from a camera with generated images based on a QRcode recognition
+ Augment real time video stream from a camera with generated images based on QRcode recognition
 
 ## Information
 
